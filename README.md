@@ -28,11 +28,11 @@ Estructura del Proyecto:
   - main/
     - java/
       - com/
-        - literAlura/
+        - literalura/demo
+          - controller/  (Controladores para la API REST)
           - model/       (Modelos de datos)
           - repository/  (Repositorios de base de datos)
           - service/     (Servicios de negocio)
-          - controller/  (Controladores para la API REST)
           - literaluraApplication.java (Clase principal)
     - resources/
       - application.properties  (Configuración de la aplicación)
